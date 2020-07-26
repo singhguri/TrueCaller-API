@@ -1,0 +1,5 @@
+django
+djangorestframework
+phonenumbers
+django-phonenumber-field
+django-rest-framework-tricks
